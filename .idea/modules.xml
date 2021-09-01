@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AULA01/AULA01.iml" filepath="$PROJECT_DIR$/AULA01/AULA01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA02/AULA02.iml" filepath="$PROJECT_DIR$/AULA02/AULA02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Step_JavaSE.iml" filepath="$PROJECT_DIR$/.idea/Step_JavaSE.iml" />
+    </modules>
+  </component>
+</project>
