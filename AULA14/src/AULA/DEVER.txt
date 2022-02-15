@@ -1,0 +1,3 @@
+Sistema de vendas de veiculos
+classe abstrata
+interface (move, liga)

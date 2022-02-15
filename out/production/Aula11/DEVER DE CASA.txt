@@ -1,0 +1,6 @@
+DEVER DE CASA
+
+---No sistema do dever casa anterior(Cadastro de alunos), faça:
+Deve ser possível matricular alunos em uma turma.
+Relatório de alunos por turma
+relatório de alunos por turma em ordem alfabética

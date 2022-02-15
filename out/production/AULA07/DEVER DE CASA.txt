@@ -1,0 +1,4 @@
+Dever de casa
+
+Receba dia mês e ano do nascimento de 2 pessoas e diga
+quem é mais a mais velha.

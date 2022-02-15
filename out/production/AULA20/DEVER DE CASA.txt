@@ -1,0 +1,6 @@
+DEVER DE CASA
+
+termine o projeto de aula criando:
+VIEW (cadastrar e consultar)
+poderá consultar todos os usuários
+ou pesquisar pelo fullname!

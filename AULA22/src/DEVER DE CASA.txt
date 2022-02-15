@@ -1,0 +1,7 @@
+DEVER DE CASA
+
+termine o projeto de aula criando:
+
+O usuário pode ser padrão ou admin. Sendo:
+Padrão -> acessa apenas a troca de senha
+Admin -> acessa o menu completo.

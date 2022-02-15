@@ -1,0 +1,9 @@
+DEVER DE CASA
+-------------
+
+Crie 2 thread que alimentem aleatoriamente uma collection cada.
+
+Cada collection terá 200 itens, sendo uma Arraylist de Strings e
+outra um mapTree de inteiros.
+
+Ao final de cada thread imprima os resultados;

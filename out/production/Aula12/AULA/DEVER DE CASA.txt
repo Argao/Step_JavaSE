@@ -1,0 +1,8 @@
+DEVER DE CASA
+
+https://blog.caelum.com.br/ordenando-colecoes-com-comparable-e-comparator/amp/
+
+https://www.javatpoint.com/Comparator-interface-in-collection-framework
+
+Crie um cadastro de pessoas com nome, idade, sexo.
+imprima por ordem de idade (mais novo para o mais velho)

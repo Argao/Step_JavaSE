@@ -1,0 +1,6 @@
+Dever de casa
+
+Crie um sistema de cadastro de Livro(nome, autor,genero,preço)
+O usuário pode cadastrar ou imprimir os livros
+
+Organize em classes e métodos estáticos

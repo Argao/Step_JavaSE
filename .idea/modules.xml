@@ -4,6 +4,31 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AULA01/AULA01.iml" filepath="$PROJECT_DIR$/AULA01/AULA01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AULA02/AULA02.iml" filepath="$PROJECT_DIR$/AULA02/AULA02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA03/AULA03.iml" filepath="$PROJECT_DIR$/AULA03/AULA03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA04/AULA04.iml" filepath="$PROJECT_DIR$/AULA04/AULA04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA05/AULA05.iml" filepath="$PROJECT_DIR$/AULA05/AULA05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA06/AULA06.iml" filepath="$PROJECT_DIR$/AULA06/AULA06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA07/AULA07.iml" filepath="$PROJECT_DIR$/AULA07/AULA07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA08/AULA08.iml" filepath="$PROJECT_DIR$/AULA08/AULA08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA09/AULA09.iml" filepath="$PROJECT_DIR$/AULA09/AULA09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA10/AULA10.iml" filepath="$PROJECT_DIR$/AULA10/AULA10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA13/AULA13.iml" filepath="$PROJECT_DIR$/AULA13/AULA13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA14/AULA14.iml" filepath="$PROJECT_DIR$/AULA14/AULA14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA15/AULA15.iml" filepath="$PROJECT_DIR$/AULA15/AULA15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA16/AULA16.iml" filepath="$PROJECT_DIR$/AULA16/AULA16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA17/AULA17.iml" filepath="$PROJECT_DIR$/AULA17/AULA17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA18/AULA18.iml" filepath="$PROJECT_DIR$/AULA18/AULA18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA19/AULA19.iml" filepath="$PROJECT_DIR$/AULA19/AULA19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA20/AULA20.iml" filepath="$PROJECT_DIR$/AULA20/AULA20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA21/AULA21.iml" filepath="$PROJECT_DIR$/AULA21/AULA21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA22/AULA22.iml" filepath="$PROJECT_DIR$/AULA22/AULA22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA23/AULA23.iml" filepath="$PROJECT_DIR$/AULA23/AULA23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA24/AULA24.iml" filepath="$PROJECT_DIR$/AULA24/AULA24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA23/AULA25.iml" filepath="$PROJECT_DIR$/AULA23/AULA25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AULA27/AULA27.iml" filepath="$PROJECT_DIR$/AULA27/AULA27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula11/Aula11.iml" filepath="$PROJECT_DIR$/Aula11/Aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula12/Aula12.iml" filepath="$PROJECT_DIR$/Aula12/Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula26/Aula26.iml" filepath="$PROJECT_DIR$/Aula26/Aula26.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Step_JavaSE.iml" filepath="$PROJECT_DIR$/.idea/Step_JavaSE.iml" />
     </modules>
   </component>

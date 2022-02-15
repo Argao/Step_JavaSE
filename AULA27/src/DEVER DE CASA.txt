@@ -1,0 +1,5 @@
+DEVER DE CASA
+-------------
+
+Crie processamentos chamáveis com retorno de Pessoa(NOME, IDADE, SEXO)
+onde execute 4 processos com 4 pessoas diferentes impressas

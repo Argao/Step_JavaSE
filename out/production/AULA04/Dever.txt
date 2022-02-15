@@ -1,0 +1,14 @@
+Dever de casa
+=============================================
+
+Crie um sistema de cadastro de lutadores.
+Lutador tem nome, idade, peso, altura e sexo;
+
+Cadastre até 10 lutadores.
+
+ao final imprima as categorias:
+(A) feminino até 18 anos
+(B) masculino até 18 anos
+(C) feminino
+(D) masculino
+

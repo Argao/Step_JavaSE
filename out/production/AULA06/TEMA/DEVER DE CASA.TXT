@@ -1,0 +1,5 @@
+Usando o sistema de biblioteca criado em sala de aula com MVC.
+Crie a opção de cadastrar Clientes e Funcionários.
+
+-->> DESAFIO -> O cliente pode comprar um livro.
+Na compra deve ter o livro, o cliente e o funcionário.

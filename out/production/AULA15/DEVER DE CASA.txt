@@ -1,0 +1,9 @@
+DEVER DE CASA
+=============
+
+Faça um sistema de cadastros de frutas
+para um hortifruti
+
+Ao final dos cadastros. Faça um relatório TXT
+com todos as frutas cadastradas.
+Para confirmar a criação, exiba o conteúdo do arquivo gerado.

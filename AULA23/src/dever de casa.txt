@@ -1,0 +1,9 @@
+Faça uma calculadora funcional com as seguintes operações:
+
+soma
+subtração
+multiplicação
+divisão
+raiz quadrada
+
+desafio = botão BACKSPACE

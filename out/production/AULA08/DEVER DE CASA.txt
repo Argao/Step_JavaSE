@@ -1,0 +1,6 @@
+Crie um sistema que receba duas datas e imprima:
+
+-A data anterior
+- a diferença entre as duas datas
+- as datas somados 3 semanas
+- quantos dias tem entre uma data e outra. ++++

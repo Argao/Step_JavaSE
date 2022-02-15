@@ -1,0 +1,13 @@
+Dever de casa
+
+Crie um sistema de doação de sangue.
+Doadores e não doadores
+
+Crie classe abstrata e interface!
+
+-------------------
+
+cadastrar pessoas
+Classe Abstrata Pessoa
+Classe Doadores, Não Doadores
+Interface (quais comportamentos o sistema terá com as pessoas)

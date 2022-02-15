@@ -1,0 +1,8 @@
+DEVER DE CASA
+
+Usando o dever de casa anterior, em anexo, faça:
+
+
+-permita a exclusão de alunos
+-relatório de alunos por turno (M/T/N)
+-relatório de menores de idade à noite.

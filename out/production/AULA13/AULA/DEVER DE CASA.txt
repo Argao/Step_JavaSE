@@ -1,0 +1,7 @@
+DEVER DE CASA
+-------------
+
+Crie um sistema de vendas de veículos:
+Classe abstrata: VEICULOS
+interface: move, /desliga;
+deve ser possível vender carros, motos e barcos.
